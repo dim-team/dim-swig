@@ -1,0 +1,27 @@
+{
+  "name": "dim-swig",
+  "version": "0.2.0",
+  "description": "Extensions of swig for dim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerroldLee/dim-swig.git"
+  },
+  "keywords": [
+    "dim",
+    "swig",
+    "fis"
+  ],
+  "dependencies": {
+    "swig": "1.4.2"
+  },
+  "author": "Jerrold <lijiayouyj@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JerroldLee/dim-swig/issues"
+  },
+  "homepage": "https://github.com/JerroldLee/dim-swig"
+}

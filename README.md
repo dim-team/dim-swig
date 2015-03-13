@@ -1,0 +1,1 @@
+## Wrap of swig for [dim](https://github.com/JerroldLee/dim)
